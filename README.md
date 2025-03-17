@@ -23,7 +23,7 @@ A modern implementation of the Two Player Game using React and Tailwind CSS.
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/surenshanaka/two-player-game.git
    cd two-player-game
    ```
 
